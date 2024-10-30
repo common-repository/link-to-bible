@@ -1,0 +1,22 @@
+{
+	"ARA" : "NAV",
+	"ALAB" : "NAV",
+	"BLG" : "BGV",
+	"CRO" : "CKK",
+	"CRS" : "CARS",
+	"CST" : "NVIC",
+	"DK" : "BPH",
+	"FCB" : "PCB",
+	"HUN" : "EIV",
+	"HTB" : "HET",
+	"ITA" : "PEV",
+	"LUT84" : "LUT",
+	"LUT17" : "LUT",
+	"NL" : "NLB",
+	"POL" : "PSZ",
+	"PRT" : "OL",
+	"RSZ" : "NRT",
+	"RUS" : "NRT",
+	"SLT2000" : "SLT",
+	"SVL" : "BSV"
+}

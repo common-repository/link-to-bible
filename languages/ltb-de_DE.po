@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bibleserver.com\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: ERF Bibleserver <info@bibleserver.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Link To Bible Settings"
+msgstr "Link To Bible Einstellungen"
+
+msgid ""
+"The API-Key can be get %shere%s. No registration is needed!<br>You need to use the address of your blog (%s) as the domainname."
+msgstr "Der API-Key kann %shier%s bezogen werden. Es ist dafür keine Registrierung notwendig!<br>Dabei muss die URL dieses Blogs (%s) als Domainname verwendet werden."
+
+msgid "Bible Language"
+msgstr "Bibelsprache"
+
+msgid "Bible Version"
+msgstr "Bibelübersetzung"
+
+msgid "Attention: Some bible versions may not contain the text of the whole bible."
+msgstr "Achtung: Einige Bibelübersetzung enthalten nicht den vollständigen Bibeltext.<br>(Z."
+"B. enthält die 'Neue Genfer Übersetzung' nur das NT und die Psalmen.)"
+
+msgid "Submit Changes"
+msgstr "Änderungen übernehmen"
+
+msgid "Error while linking to bible"
+msgstr "Fehler während der Verlinkung der Bibelstellen"
+
+msgid "You need to set an API-Key"
+msgstr "Es ist kein API-Key gesetzt."
+
+msgid "Other settings"
+msgstr "Sonstige Einstellungen"
+
+msgid ""
+"Some statements are detected by bibleserver.com as bible references which are no "
+"ones."
+msgstr "Manche Ausdrücke werden von bibleserver.com fälschlicherweise als "
+"Bibelstellenangabe erkannt."
+
+msgid "Ignore False-Positives"
+msgstr "Verhindere falsch-positive Verlinkungen"
+
+msgid "The API-Key must be set."
+msgstr "Der API-Key muss gesetzt werden."
+
+msgid "Missing php5-curl-library"
+msgstr "Die 'php5-curl-library' ist nicht installiert"
+
+msgid "<b>Link To Bible</b>: Please go to the %ssettings-page%s to set the API-Key and select the bible version. (No registration is needed!)"
+msgstr "<b>Link To Bible</b>: Bitte tragen Sie unter %sEinstellungen%s Ihren API-Key ein und wählen Sie Ihre Bibelübersetzung aus. (Dafür ist keine Registrierung notwendig!)"
+
+msgid "Use the language of a post's bible version for detecting bible references"
+msgstr "Die Sprache der jeweiligen Bibelübersetzung als Sprache für die Erkennung von Bibelstellenangaben benutzen"
+
+msgid "The format of bible references depends on the used language. (e.g. English &#8594; 'Gen 1:20', German &#8594; 'Mose 1,20')<br>Therefore you can use the language of wordpress [%s] for all posts, or the language of the bible version of the particular post."
+msgstr "Das Format von Bibelstellenangaben ist sprachabhängig. (z.B. Deutsch &#8594; 'Mose 1,20', Englisch &#8594; 'Gen 1:20')<br>Dafür kann die aktuelle Sprache der Wordpress-Oberfläche [%s] verwendet werden oder die Sprache der jeweiligen Bibelübersetzung."
+
+msgid "Retrieve API-Key automatically"
+msgstr "API-Key automatisch abrufen"
+
+msgid "The API-Key could not be retrieved."
+msgstr "Der API-Key konnte nicht abgerufen werden."

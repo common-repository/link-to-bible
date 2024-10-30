@@ -1,0 +1,174 @@
+{
+  "ar": {
+    "name": "عربي",
+    "bible_versions": {
+      "NAV": "الكتاب المقدس"
+    }
+  },
+  "bg": {
+    "name": "Български",
+    "bible_versions": {
+      "BGV": "Верен",
+      "CBT": "Съвременен български превод",
+      "BPB": "Библия, ревизирано издание",
+      "BOB": "Библия, синодално издание"
+    }
+  },
+  "cs": {
+    "name": "čeština",
+    "bible_versions": {
+      "CEP": "Český ekumenický překlad",
+      "SNC": "Slovo na cestu",
+      "B21": "Bible, překlad 21. století",
+      "BKR": "Bible Kralická"
+    }
+  },
+  "da": {
+    "name": "Dansk",
+    "bible_versions": {
+      "BPH": "Bibelen på hverdagsdansk"
+    }
+  },
+  "de": {
+    "name": "Deutsch",
+    "bible_versions": {
+      "LUT": "Lutherbibel 2017",
+      "ELB": "Elberfelder Bibel",
+      "HFA": "Hoffnung für alle",
+      "SLT": "Schlachter 2000",
+      "ZB": "Zürcher Bibel",
+      "GNB": "Gute Nachricht Bibel 2018",
+      "NGÜ": "Neue Genfer Übersetzung",
+      "EU": "Einheitsübersetzung 2016",
+      "NLB": "Neues Leben. Die Bibel",
+      "NeÜ": "Neue evangelistische Übersetzung",
+      "MENG": "Menge Bibel",
+      "DBU": "Das Buch"
+    }
+  },
+  "en": {
+    "name": "English",
+    "bible_versions": {
+      "ESV": "English Standard Version",
+      "NIV": "New International Version",
+      "NIRV": "New International Reader’s Version",
+      "KJV": "King James Version"
+    }
+  },
+  "es": {
+    "name": "Español",
+    "bible_versions": {
+      "NVIC": "Nueva Versión Internacional (Castellano)",
+      "NVI": "Nueva Versión Internacional",
+      "NBV": "Nueva Biblia Viva",
+      "BTX": "La Biblia Textual"
+    }
+  },
+  "fa": {
+    "name": "فارسی",
+    "bible_versions": {
+      "PCB": "کتاب مقدس، ترجمۀ معاصر"
+    }
+  },
+  "fr": {
+    "name": "Français",
+    "bible_versions": {
+      "BDS": "Bible du Semeur",
+      "S21": "Segond 21",
+      "LSG": "Louis Segond 1910"
+    }
+  },
+  "hr": {
+    "name": "Hrvatski",
+    "bible_versions": {
+      "CKK": "Knjiga O Kristu"
+    }
+  },
+  "hu": {
+    "name": "Magyar",
+    "bible_versions": {
+      "KAR": "IBS-fordítás (Új Károli)",
+      "EIV": "Újszövetség: élet, igazság és világosság"
+    }
+  },
+  "it": {
+    "name": "Italiano",
+    "bible_versions": {
+      "PEV": "La Parola è Vita",
+      "NRS": "Nuova Riveduta 2006"
+    }
+  },
+  "nl": {
+    "name": "Nederlands",
+    "bible_versions": {
+      "HET": "Het Boek"
+    }
+  },
+  "no": {
+    "name": "Norsk",
+    "bible_versions": {
+      "NOR": "En Levende Bok"
+    }
+  },
+  "pl": {
+    "name": "Polski",
+    "bible_versions": {
+      "PSZ": "Słowo Życia"
+    }
+  },
+  "pt": {
+    "name": "Português",
+    "bible_versions": {
+      "NVIP": "Nova Versão Internacional",
+      "PRT": "O Livro"
+    }
+  },
+  "ro": {
+    "name": "Român",
+    "bible_versions": {
+      "NTR": "Noua Traducere Românească"
+    }
+  },
+  "ru": {
+    "name": "русский",
+    "bible_versions": {
+      "NRT": "Новый Русский Перевод",
+      "CARS": "Священное Писание, Восточный перевод",
+      "RST": "Синодальный перевод"
+    }
+  },
+  "sk": {
+    "name": "Slovenský",
+    "bible_versions": {
+      "NPK": "Nádej pre kazdého"
+    }
+  },
+  "sv": {
+    "name": "Svenska",
+    "bible_versions": {
+      "BSV": "Nya Levande Bibeln",
+      "NUB": "nuBibeln"
+    }
+  },
+  "tr": {
+    "name": "Türkçe",
+    "bible_versions": {
+      "TR": "Kutsal Kitap Yeni Çeviri"
+    }
+  },
+  "uk": {
+    "name": "українська",
+    "bible_versions": {
+      "NPU": "Новий Переклад Українською",
+      "UTT": "Українська Біблія LXX УБТ"
+    }
+  },
+  "zh_CN": {
+    "name": "简体中文",
+    "bible_versions": {
+      "CUVS": "中文和合本（简体）",
+      "CCBT": "聖經當代譯本修訂版",
+      "CCB": "圣经当代译本修订版"
+    }
+  }
+}
